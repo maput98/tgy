@@ -1,4 +1,4 @@
-name: CI
+name: rhantech
 
 on: workflow_dispatch
 
